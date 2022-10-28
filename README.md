@@ -1,4 +1,4 @@
-# Koleksi data Geologi Bandung
+d# Koleksi data Geologi Bandung
 
 Front end koleksi data geologi
 
@@ -8,12 +8,8 @@ Instal Node
 Instal NPM
 Instal Vscode
 
----
-
 Visual Studio Code Shortcut
 html to JSX
-
----
 
 VS Code ES7 React/Redux/React-Native/JS snippet
 
@@ -23,12 +19,22 @@ nanti harus update app dan masukan wrapper
 
 Run Project:
 
-### `npm start`
+### Jalankan Aplikasi `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) browser
 
-### `npm test`
+### Dashboard yang digunakan
 
-### `npm run build`
+Copy dist dan plugin folder ke public
+pilih dashboard yang mau di integrasikan
+add body class ke index.html
+Update App.js tambahkan `<div class="wrapper'></div>`
+buat test page nya
 
-### `npm run eject`
+### Componen nya ini saja
+
+- [ ] Head
+- [ ] Menu
+- [ ] Dashboard
+- [ ] Footer
+- [ ] dah cukup
