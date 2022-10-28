@@ -1,7 +1,7 @@
 # Koleksi data Geologi Bandung
 Front end koleksi data geologi
 
-##Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](reate-react-app).
 
