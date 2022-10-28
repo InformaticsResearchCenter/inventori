@@ -1,7 +1,14 @@
 # Koleksi data Geologi Bandung
+Front end koleksi data geologi
 
+<<<<<<< HEAD
 ##Getting Started with Create React App
 This project was bootstrapped with [Create React App](reate-react-app).
+=======
+## Deployed automatically
+
+This project was deployed on [Museum Geologi](https://museumgeologi.herokuapp.com/).
+>>>>>>> 0abb48eb9768d95bfa4514415d9b4e04fa082625
 
 ## Persiapan
 
