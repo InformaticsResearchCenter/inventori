@@ -1,6 +1,7 @@
-# Koleksi data Geologi Bandung
+# Front end koleksi data Geologi Bandung
 
 Front end koleksi data geologi
+
 run otomatis [https://museumgeologi.herokuapp.com/](https://museumgeologi.herokuapp.com/)
 
 ## Persiapan
