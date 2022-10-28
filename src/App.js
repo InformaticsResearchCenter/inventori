@@ -6,7 +6,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>WEBSITE UNDER CONSTRUCTION !!</h1>
         <p>
           Museum Geologi Bandung <code>url/geologi/src/App.js</code> resfrest weh browsernya
         </p>
